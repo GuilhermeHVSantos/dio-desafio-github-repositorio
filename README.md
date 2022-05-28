@@ -1,2 +1,3 @@
-# dio-desafio-github-repositorio
-Desafio feito exclusivamente para entrega do desafio da DIO
+# Desafio de Projeto da DIO 
+
+Desafio feito exclusivamente para entrega do projeto do desafio da DIO na criação de um repositorio
