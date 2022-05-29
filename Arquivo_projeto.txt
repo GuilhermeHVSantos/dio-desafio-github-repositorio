@@ -1,0 +1,4 @@
+Esse é um arquivo criado exclusivamente para envio do desafio!
+
+Apesar da falta de conteúdo serviu de aprendizado para explorar o Git na prática.
+
